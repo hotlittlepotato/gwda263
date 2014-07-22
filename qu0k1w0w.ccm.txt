@@ -1,0 +1,42 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   css/foundation.css
+#	new file:   css/foundation.min.css
+#	new file:   css/normalize.css
+#	new file:   humans.txt
+#	new file:   img/.gitkeep
+#	new file:   index.html
+#	new file:   js/foundation.min.js
+#	new file:   js/foundation/foundation.abide.js
+#	new file:   js/foundation/foundation.accordion.js
+#	new file:   js/foundation/foundation.alert.js
+#	new file:   js/foundation/foundation.clearing.js
+#	new file:   js/foundation/foundation.dropdown.js
+#	new file:   js/foundation/foundation.equalizer.js
+#	new file:   js/foundation/foundation.interchange.js
+#	new file:   js/foundation/foundation.joyride.js
+#	new file:   js/foundation/foundation.js
+#	new file:   js/foundation/foundation.magellan.js
+#	new file:   js/foundation/foundation.offcanvas.js
+#	new file:   js/foundation/foundation.orbit.js
+#	new file:   js/foundation/foundation.reveal.js
+#	new file:   js/foundation/foundation.slider.js
+#	new file:   js/foundation/foundation.tab.js
+#	new file:   js/foundation/foundation.tooltip.js
+#	new file:   js/foundation/foundation.topbar.js
+#	new file:   js/vendor/fastclick.js
+#	new file:   js/vendor/jquery.cookie.js
+#	new file:   js/vendor/jquery.js
+#	new file:   js/vendor/modernizr.js
+#	new file:   js/vendor/placeholder.js
+#	new file:   robots.txt
+#
+
