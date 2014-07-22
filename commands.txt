@@ -1,9 +1,14 @@
 — commands —
 
 git status - check any changes
+
 git push - put files online
+git push origin master - everything is uploaded
+
 git pull origin master - pulling original master files
 git pull “file name or folder”
+“pull” is getting everything from the repository online and putting into your local
+
 git commit - attach message to file
 git commit -m - add message
 
