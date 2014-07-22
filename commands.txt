@@ -1,0 +1,10 @@
+— commands —
+
+git status - check any changes
+git push - put files online
+git pull origin master - pulling original master files
+git pull “file name or folder”
+git commit - attach message to file
+git commit -m - add message
+
+cd - change directory
