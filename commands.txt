@@ -9,7 +9,16 @@ git pull origin master - pulling original master files
 git pull “file name or folder”
 “pull” is getting everything from the repository online and putting into your local
 
-git commit - attach message to file
-git commit -m - add message
+git commit -m “add message here”
 
 cd - change directory
+
+status
+git pull
+git add
+git commit
+git push
+
+status > add > commit > pull > push
+status > add > commit > status > pull > push
+status > add > status > commit > pull > push
