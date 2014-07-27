@@ -1,0 +1,26 @@
+.eleanorContainer {
+	width: 100%;
+	background-color: #3C7A8F;
+	color: #fff;
+	margin: 50px auto;
+	padding: 20px;
+}
+
+.eleanorContainer .columns {
+	background-color: rgba(255,255,255,0.5);
+	padding: 10px;
+	border: 1px solid #3C7A8F;
+
+	transition: background-color 0.5s;
+	-webkit-transition: background-color 0.5s;
+	transition-timing-function: linear;
+	-webkit-transition-timing-function: linear;
+}
+
+.eleanorContainer .row {
+	margin: 10px auto;
+}
+
+.eleanorContainer .columns:hover {
+	background-color: rgba(255,255,255,0.2);
+}
