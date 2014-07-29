@@ -1,0 +1,11 @@
+.ou {
+	  background-color:#0FF;
+    border-style: solid;
+    border-color: #066;
+  	width: 100%;
+}
+
+.ou .columns {
+    border-style: solid;
+    border-color: #98bf21;
+}
