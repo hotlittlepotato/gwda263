@@ -25,3 +25,4 @@ status > add > status > commit > pull > push
 status > pull > status > add > commit > pull > push
 
 doodee:gwda263 JadeMarucut$ git log HEAD..origin/master
+doodee:gwda263 JadeMarucut$ git merge origin/master
